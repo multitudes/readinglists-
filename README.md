@@ -3,15 +3,26 @@
 Interested in what I'm reading these days? Check out my reading lists.
 
 
-## Pleasure
+## pleasure
 
 Currently reading:
 
-Beyond Reach
-Karin Slaughter
-mystery, thriller
+Dirk Gently's Holistic Detective Agency and The Long Dark Tea-Time of the Soul  
+By Douglas Adams  
+humorous fantasy detective novel  
 
-## Reference 
+Blindsighted  
+By Karin Slaughter  
+mystery, thriller  
 
-## Work-related
+## reference 
+
+Girls Who Code  
+By Reshma Saujani  
+programming  
+Essential reading since it has been banned in a Pennsylvania school district! They are obviously doing something right there!
+
+
+## work-related
+
 
