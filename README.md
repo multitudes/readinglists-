@@ -22,6 +22,10 @@ By Reshma Saujani
 programming  
 Essential reading since it has been banned in a Pennsylvania school district! They are obviously doing something right there!
 
+Natural Swift  
+By Paul Hudson  
+[link](https://twostraws.gumroad.com/l/natural-swift)  
+One hour video about better programming with FP and POP
 
 ## work-related
 
