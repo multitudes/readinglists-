@@ -36,6 +36,6 @@ One hour video about better programming with FP and POP
 
 ## web
 
-Testing an Apple Watch Ultra in the Scottish Highlands
-September 28th, 2022
+Testing an Apple Watch Ultra in the Scottish Highlands  
+September 28th, 2022  
 [link](https://www.david-smith.org/blog/2022/09/28/apple-watch-ultra-scotland/)
