@@ -44,3 +44,11 @@ I am very happy with this book. Lots of interesting tips and shortcuts to work b
 Testing an Apple Watch Ultra in the Scottish Highlands  
 September 28th, 2022  
 [link](https://www.david-smith.org/blog/2022/09/28/apple-watch-ultra-scotland/)
+
+
+Calculus  
+[link](https://www.3blue1brown.com/topics/calculus)  
+This is a video series on YouTube. Great introduction to calculus, integrals and derivatives in a playful manner.  
+
+
+
