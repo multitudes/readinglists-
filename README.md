@@ -36,7 +36,7 @@ One hour video about better programming with FP and POP
 Beyond Code  
 UNIX, GIT, REGEX, SCRUM, AND MORE 
 Learn the meta-skills you need to be a better coder no matter what language  
-By Paul Hudson
+By Paul Hudson  
 [link](https://twostraws.gumroad.com/l/beyondcode)  
 I am very happy with this book. Lots of interesting tips and shortcuts to work better as a programmer.  
 ## web
