@@ -22,7 +22,7 @@ By Reshma Saujani
 programming  
 Essential reading since it has been banned in a Pennsylvania school district! They are obviously doing something right there!
 
-Manim 
+Manim  
 community-maintained Python framework for creating mathematical animations.   
 [link](https://github.com/ManimCommunity/manim/)
 
