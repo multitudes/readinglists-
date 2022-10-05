@@ -23,8 +23,7 @@ programming
 Essential reading since it has been banned in a Pennsylvania school district! They are obviously doing something right there!
 
 Manim 
-By 
-A community-maintained Python framework for creating mathematical animations.   
+community-maintained Python framework for creating mathematical animations.   
 [link](https://github.com/ManimCommunity/manim/)
 
 
